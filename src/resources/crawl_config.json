@@ -1,0 +1,7 @@
+{
+	"config":{
+		"seed":"http://www.reuters.com/finance/stocks/overview?symbol=AAPL.OQ",
+		"xpath1":"//div[@class='feature']//a/@href"
+	}
+	
+}
